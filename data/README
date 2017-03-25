@@ -1,0 +1,7 @@
+Here, we have the data we'll be using:
+CollegeScoreCardDataDictionary.csv - descriptions of each column
+cols_using.csv - A subset of CollegeScoreCardDataDictionary.csv giving us only
+	the columns we want.
+FullDataDocumentation.pdf - Exactly what the name is
+sub_dat - A subset of the original data including only the variables from cols_using,
+	but also only instances where our response, MD_EARN_WNE_P6 was non-null

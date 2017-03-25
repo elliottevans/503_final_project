@@ -1,0 +1,5 @@
+Here, you'll find all the code needed to perform the analysis.
+dataClean.R - Originally created to create sub_dat. For further data cleaning,
+	we should create a different file
+functions.R - Some handy functions. If we create functions that are really complex,
+	they should be placed here.
